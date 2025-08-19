@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of FrotaMax - Painel de Controle",
+  "description": "Um painel moderno e responsivo para gerenciar e monitorar uma frota de veículos. Visualize o status dos veículos, localizações e alertas recentes em uma interface limpa e intuitiva.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
